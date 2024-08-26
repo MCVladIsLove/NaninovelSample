@@ -73,4 +73,5 @@ crashlytics-build.properties
 
 
 # ignore photoshop files
-.psd
+*.psd
+*.psd.meta
