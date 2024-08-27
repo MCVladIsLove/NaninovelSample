@@ -1,0 +1,10 @@
+@back balcony
+
+@char Cindy
+Hi.
+@char Cindy.angry
+What is your name? Say it now.
+@char Cindy.shy_blush
+Sorry, didn't want to scare you. Haha.
+
+@stop

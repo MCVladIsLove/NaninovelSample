@@ -144,3 +144,36 @@ MonoBehaviour:
     - name: ScriptNavigatorUI
       pathPrefix: UI
       guid: 735d6aa767879aa469134858c5b2f0a7
+  - Id: Scripts
+    Resources:
+    - name: Sample
+      pathPrefix: Scripts
+      guid: 92773860fff6dd947bbd5e4af22a5f42
+  - Id: Characters/ea14cc0b-a381-4b11-8349-423b2f3878e8
+    Resources:
+    - name: neutral
+      pathPrefix: Characters/Cindy
+      guid: f0580a55e91b91f428657cb5d2e4f408
+    - name: angry
+      pathPrefix: Characters/Cindy
+      guid: c7497736b165f8840bf2f3da166135e9
+    - name: shy_blush
+      pathPrefix: Characters/Cindy
+      guid: 6d4f14e1cb9283b44911b198cfe66f0d
+    - name: smile
+      pathPrefix: Characters/Cindy
+      guid: 671d8bfe29cb54a45a7eff52097a1dc1
+    - name: surprised
+      pathPrefix: Characters/Cindy
+      guid: beb1aaeb5bfced247b5e2cf4ebd77416
+    - name: surprised_blush
+      pathPrefix: Characters/Cindy
+      guid: 5f594da1dccad9745ba15ee90f592d8c
+    - name: weird_smile
+      pathPrefix: Characters/Cindy
+      guid: b8a77e61abe6aff44a996b187c1ccf5c
+  - Id: Backgrounds/afb63952-7b1a-408b-84df-efe601b774d8
+    Resources:
+    - name: balcony
+      pathPrefix: Backgrounds/MainBackground
+      guid: 1df002135c91ca34393ee78363076b49
